@@ -18,7 +18,7 @@
   "dependencies": {
     "beefy": "^2.1.4",
     "brace": "^0.5.1",
-    "browserify": "^9.0.8",
+    "browserify": "^12.0.0",
     "highlight.js": "^8.5.0",
     "hyperscript": "^1.4.6",
     "insert-css": "^0.2.0",
